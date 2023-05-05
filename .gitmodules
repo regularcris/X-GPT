@@ -1,0 +1,6 @@
+[submodule "External/Xal/External/libHttpClient"]
+	path = External/Xal/External/libHttpClient
+	url = https://github.com/microsoft/libHttpClient
+[submodule "External/rapidjson"]
+	path = External/rapidjson
+	url = https://github.com/jasonsandlin/rapidjson
